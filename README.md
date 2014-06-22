@@ -1,4 +1,4 @@
-travis-test-mac-clang-libstdcxx
-===============================
+[![Build Status][master]][repo]
 
-Clang with libstdc++ library on Mac OS X
+[master]: https://travis-ci.org/travis-ci-tester/travis-test-mac-clang-libstdcxx.svg?branch=master
+[repo]: https://travis-ci.org/travis-ci-tester/travis-test-mac-clang-libstdcxx
