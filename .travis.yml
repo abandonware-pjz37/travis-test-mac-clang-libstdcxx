@@ -1,0 +1,8 @@
+language:
+    - objective-c
+
+script:
+    - which clang++
+    - clang++ --version
+    - clang++ -stdlib=libstdc++ foo.cpp -o prog
+    - otool -L prog
